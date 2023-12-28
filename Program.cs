@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleFermaThrm
 {
-    internal class Program
+    public class Program
     {
         static double Func(double x)
         {
@@ -14,7 +14,7 @@ namespace SimpleFermaThrm
             return x * x;
         }
 
-        static double CalculateIntegral(double[] curvePoints)
+        public static double CalculateIntegral(double[] curvePoints)
         {
             double integral = 0;
 
@@ -34,6 +34,10 @@ namespace SimpleFermaThrm
             return integral;
         }
 
+        public static int TestFunc(int n)
+        {
+            return n;
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("кругом обман - доказательства Теоремы Ферма не будет, только Коши-Буяковского!" + " \n");
