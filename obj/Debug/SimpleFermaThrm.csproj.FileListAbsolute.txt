@@ -18,3 +18,5 @@ C:\Users\zabul\Documents\GitHub\PIhomeworkk\bin\Debug\System.Threading.Tasks.Ext
 C:\Users\zabul\Documents\GitHub\PIhomeworkk\bin\Debug\nunit.framework.xml
 C:\Users\zabul\Documents\GitHub\PIhomeworkk\bin\Debug\nunit.framework.legacy.xml
 C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.csproj.CopyComplete
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.Properties.Resources.resources
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.csproj.GenerateResource.cache

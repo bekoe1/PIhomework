@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleFermaThrm
-{
+
     public class Program
     {
         static double Func(double x)
@@ -48,4 +47,5 @@ namespace SimpleFermaThrm
             Console.WriteLine("Значение интеграла: " + integral);
         }
     }
-}
+
+
