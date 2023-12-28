@@ -42,6 +42,6 @@ namespace SimpleFermaThrm
             double integral = CalculateIntegral(curvePoints);
 
             Console.WriteLine("Значение интеграла: " + integral);
-        }
+        }222
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\bin\Debug\SimpleFermaThrm.exe.config
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\bin\Debug\SimpleFermaThrm.exe
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\bin\Debug\SimpleFermaThrm.pdb
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.csproj.AssemblyReference.cache
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.csproj.SuggestedBindingRedirects.cache
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.csproj.CoreCompileInputs.cache
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.exe
+C:\Users\zabul\Documents\GitHub\PIhomeworkk\obj\Debug\SimpleFermaThrm.pdb
