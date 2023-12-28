@@ -16,7 +16,7 @@ namespace SimpleFermaThrm
 
         static double CalculateIntegral(double[] curvePoints)
         {
-            double integral = 0;,
+            double integral = 0;
 
             for (int i = 0; i < curvePoints.Length - 1; i++)
             {
